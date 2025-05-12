@@ -1,4 +1,4 @@
 module cfspeedtest
 
-go 1.22.11
+go 1.22.12
 
